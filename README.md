@@ -6,7 +6,7 @@ Note that source code of the program won't be shared due to copyright protection
 
 There are currently 5 ECU programs made by me, which really ease the proccess of making DPF, EGR, Lambda (and many more) difference files to the original files of the car software.
 
-![Screenshot (640)](https://github.com/user-attachments/assets/aa37c926-61fe-42de-9e1b-f183f841729a)
+![Screenshot (640)](https://github.com/user-attachments/assets/e31acae4-0dac-4f15-a3e8-70b75f5534e9)
 
 Webiste for car software searching:
 -
