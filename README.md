@@ -19,4 +19,7 @@ A webiste which I made to quickly check what my program can do based on the car 
 A glimpse of the ECU program:
 -
 
-//video 
+https://github.com/user-attachments/assets/863ca75f-c8f8-4bd9-b41b-afbb88a00b19
+
+
+
