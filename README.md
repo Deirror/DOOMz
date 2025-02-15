@@ -1,4 +1,4 @@
-# Deirror’s Opcode Optimization Modulez
+# Deirror’s Opcode Optimization Modules
 
 In this repository you can find information about my ECU program.
 
